@@ -1,0 +1,14 @@
+.intro__list-number {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+@media screen and (max-width: 320px){
+    .intro__list {
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
